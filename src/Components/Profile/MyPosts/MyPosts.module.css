@@ -1,0 +1,22 @@
+.myPosts {
+padding-top: 10px;
+}
+
+.newPost {
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+}
+
+.but{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+
+.text{
+    padding: 5px;
+}

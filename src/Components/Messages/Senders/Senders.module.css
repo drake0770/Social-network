@@ -1,0 +1,7 @@
+.senders{
+    grid-area: send;
+}
+
+.sender{
+    padding: 5px;
+}

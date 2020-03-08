@@ -1,0 +1,26 @@
+.body {
+    display: flex;
+    flex-direction: row;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.but {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.spans {
+    cursor: pointer;
+    padding: 2px;
+}
+
+.page :hover {
+    color: gray;
+}
+
+.spans :hover {
+    color: white;
+}

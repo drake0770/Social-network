@@ -1,0 +1,22 @@
+.error textarea,
+.error input {
+    border: solid red 2px;
+}
+
+.errorData {
+    color: red;
+}
+
+.but {
+    width: 170px;
+    height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #385899;
+    font-weight: bold;
+}
+
+.textarea {
+    width: 220px;
+    height: 50px;
+}

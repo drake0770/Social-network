@@ -1,0 +1,9 @@
+.messages {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-areas: 'send note';
+    height: 100vh;
+    background-color: white;
+    margin-right: 15vw;
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+.header {
+    background-color: #385899;
+    grid-area: h;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.but {
+    float: right;
+    color: white;
+    cursor: pointer;
+    padding: 7px;
+}
+
+.but:hover {
+    color: darkturquoise;
+}
+
+.img {
+    width: 30px;
+    padding: 2px;
+    float: left;
+}
+
+.soc {
+    color: white;
+    float: left;
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 5px;
+}
